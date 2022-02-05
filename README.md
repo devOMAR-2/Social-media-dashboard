@@ -22,7 +22,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Toggle color theme to their preference
 
-### Screenshot
+### Screenshots
 
 ![Desktop Preview - Dark Theme](./img/Preview-Dark.png)
 
